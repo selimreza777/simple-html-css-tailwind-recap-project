@@ -1,5 +1,10 @@
+/* googel font @import url  */
+
 @import url('https://fonts.googleapis.com/css2?family=Manrope:wght@200..800&display=swap');
+
+/* Manrope: CSS class for a variable style  */
 
 .manrope_font {
   font-family: "Manrope", sans-serif;
 }
+
